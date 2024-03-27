@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="twitter-entity-sentiment-analysis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/twitter-entity-sentiment-analysis.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
